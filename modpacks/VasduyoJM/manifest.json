@@ -4,7 +4,7 @@
   "description": "TestTutajest",
   "long_description": "TestTutajest",
   "mc_version": "1.21.4",
-  "fabric_version": "0.16.9",
+  "fabric_version": "0.19.5",
   "mods": [
     {
       "name": "bobby-5.2.6+mc1.21.4",
